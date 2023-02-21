@@ -1,6 +1,5 @@
 settings:
   default: "jp"
-  fallback: "jp"
 lang:
   jp:
     - title: ブログだよ
